@@ -1,0 +1,11 @@
+product_id,product_type,category,price,sales,region,rating,consumption,purchase_made
+1,Solar Panel,Solar,300,500,North America,4.5,250,1
+2,Wind Turbine,Wind,800,200,Europe,4.2,500,1
+3,Storage Battery,Battery,200,150,Asia,4.7,100,0
+4,Solar Panel,Solar,350,300,North America,4.9,260,1
+5,Wind Turbine,Wind,900,120,Europe,4.3,520,0
+6,Solar Panel,Solar,320,450,North America,4.8,240,1
+7,Electric Vehicle,EV,30000,50,Asia,4.6,0,1
+8,Solar Panel,Solar,330,380,Europe,4.4,230,1
+9,Wind Turbine,Wind,850,180,North America,4.0,510,0
+10,Storage Battery,Battery,180,200,Europe,4.3,110,1

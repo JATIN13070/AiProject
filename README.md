@@ -26,7 +26,6 @@ We harnessed the power of Python and its robust libraries to make this project s
 ---
 
 ## 📊 Our Data Superstars
-- *Source*: [Dataset Name/Link]
 - *Highlights*: 
   - Comprehensive energy usage patterns.
   - Product details tailored for sustainable living.
